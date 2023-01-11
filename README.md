@@ -2,9 +2,6 @@
 
 ![eye-test](https://user-images.githubusercontent.com/81832365/211692403-e8f9ce9b-5b55-485f-8c6d-938da231ef97.jpg)
 
-
-A deep learning approach to glaucoma detection.
-
 ## Intro
 
 In this work, I use a dataset of retinal fundus pictures to identify whether glaucoma, a condition that can result in vision loss, is present in the patient's eye. The dataset used is available [here](https://www.kaggle.com/datasets/jordidelatorreuoc/practica-dl-uoc-2022).
