@@ -23,3 +23,7 @@ The performance of the models, especially when measured with the f1-score, is qu
 ## Conclusions
 
 There is always a tradeoff between accuracy and reducing false negatives, and perhaps if the number of FNs were lower, the overall performance would be impacted. Therefore, this contradiction must be navigated and it is necessary to tread very finely in order to get the optimal model. 
+
+
+## Bibliography
+https://datascience.stackexchange.com/questions/48246/how-to-compute-f1-in-tensorflow
