@@ -26,4 +26,4 @@ There is always a tradeoff between accuracy and reducing false negatives, and pe
 
 
 ## Bibliography
-https://datascience.stackexchange.com/questions/48246/how-to-compute-f1-in-tensorflow
+[1] https://datascience.stackexchange.com/questions/48246/how-to-compute-f1-in-tensorflow
