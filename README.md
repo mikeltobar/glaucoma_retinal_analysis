@@ -30,6 +30,9 @@ Looking at the confusion matrix, we can see how there can some concerns related 
 
 The cross validation section [----]
 
+![cross_val](https://user-images.githubusercontent.com/81832365/211693731-70638f8e-2603-4638-8ae1-a70d8dc83e59.png)
+
+
 ## Conclusions
 
 There is always a tradeoff between accuracy and reducing false negatives, and perhaps if the number of FNs were lower, the overall performance would be impacted. Therefore, this contradiction must be navigated and it is necessary to tread very finely in order to get the optimal model. 
