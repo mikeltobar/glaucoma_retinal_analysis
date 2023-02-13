@@ -28,10 +28,9 @@ It also shows a solid performance regarding all other scores, more consistently 
 
 Looking at the confusion matrix, we can see how there can some concerns related to the f1-score. 9 patients are diagnosed healthy and have glaucomas, which would be inacceptable in a real-life situation. Therefore, in any hypothetical future phase it would be desirable to lower this number. Let's keep in mind that the f1 metric stresses the importance of false negatives, and the lower it is, the better it performs with them. However, this is a good starting point, since the model gives less false negatives than the others.
 
-The cross validation section [----]
+The cross validation section gives slighly less optimistic values of the f1-score, since the data is tested in a more real-world situation. We see an uptick in false negatives, something that is certainly not desirable.
 
-![cross_val](https://user-images.githubusercontent.com/81832365/211693731-70638f8e-2603-4638-8ae1-a70d8dc83e59.png)
-
+![f1 cross validation](https://user-images.githubusercontent.com/81832365/218507632-5b156ce8-f7a7-4e48-a9c8-d9f7d66c663d.png)
 
 ## Conclusions
 
